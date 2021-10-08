@@ -1,4 +1,4 @@
-#CART - APP
+<h1>CART - APP</h1>
 
 This is a cart app made using Reactjs.
 
